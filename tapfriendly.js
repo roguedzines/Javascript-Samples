@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    console.log(5);
     var buttonminus = $('<button type="button" class="hic_minusbutton">-</button>');
     var buttonadd = $('<button type="button" class="hic_addbutton">+</button>');
     var count = 1;
